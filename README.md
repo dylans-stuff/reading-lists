@@ -1,18 +1,38 @@
 # reading-lists
 📚 Lists of readings sorted by topic
 
-## readings
-*for yourself*
+## agriculture, permaculture
+  * [uniteddiversity.coop](http://library.uniteddiversity.coop/)
+
+## fiction
+  * [worm](https://parahumans.wordpress.com/)
+  
+## sts / radical science
+  * [decolonizing science](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.x0dvzakgw)
+  * [disobedient electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
+  
+## philosophy
+  * [the case for panspsychism](https://philosophynow.org/issues/121/The_Case_For_Panpsychism)
+  
+## zines
   * [aaaaarg.fail](http://aaaaarg.fail/collection/list)
   * [infoshop.io](http://infoshop.io/)
-  * [uniteddiversity.coop](http://library.uniteddiversity.coop/)
-  * [historyisaweapon](http://historyisaweapon.com/)
-  * [the case for panspsychism](https://philosophynow.org/issues/121/The_Case_For_Panpsychism)
-  * [decolonizing science](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.x0dvzakgw)
-  * [worm](https://parahumans.wordpress.com/)
   * [chapman university feminist zines](http://digitalcommons.chapman.edu/feminist_zines/)
-  * [disobedient electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
+  
+## work culture
   * [contingent no more: an academic manifesto](https://thebaffler.com/the-poverty-of-theory/contingent-no-more)
+
+## readings
+*for yourself*
+
+
+  * [historyisaweapon](http://historyisaweapon.com/)
+
+
+
+
+
+
   * [report](https://populardemocracy.org/news-and-publications/report-examining-12-city-county-budgets-reveals-heavy-spending-policing) by center for popular democracy examining policing in 12 cities (referenced by a. vitale)
   * [reel injun](https://en.wikipedia.org/wiki/Reel_Injun)
   * [incident at ogalala](https://en.wikipedia.org/wiki/Incident_at_Oglala)
