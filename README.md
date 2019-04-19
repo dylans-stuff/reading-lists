@@ -32,7 +32,6 @@
   * [contingent no more: an academic manifesto](https://thebaffler.com/the-poverty-of-theory/contingent-no-more)
   * [How Millenials Became The Burnout Generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work?fbclid=IwAR3KJ7_yxbjJO7RhRStjtQ1BDv_eUGMjNpqtj3P6tRDIDsRIYvsDd70fGB8)
   * [Don’t Work 80 Hours a Week for Elon Musk, or Anyone](https://www.vice.com/en_us/article/ev3b3p/dont-work-80-hours-a-week-for-elon-musk-or-anyone?utm_source=vicefbus&fbclid=IwAR1hPsfg9qSJDwrbIPC3nxuj-UAMwytVhPaAZ739EoWFzwYHynjG_mDQrTM)
-fbclid=IwAR1Pk5EnM4N9soxSKwbqprs2QGbWMMk0cr9d_7yC5u6-15X3w02w1fjulb0)
   
 ## health and wellness
 * [the epidemic of gay loneliness](http://highline.huffingtonpost.com/articles/en/gay-loneliness/)
