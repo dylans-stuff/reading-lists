@@ -3,6 +3,9 @@
 
 ## agriculture, permaculture
   * [uniteddiversity.coop](http://library.uniteddiversity.coop/)
+  
+## cooperatives
+  * [Why Do Coops Hate Unions?](http://organizing.work/2019/04/why-do-coops-hate-unions/?fbclid=IwAR3F4mJQyXdin82daIPb4RMjmq2MHvbuqDtoL3-_dRdN3eRxrbH9iCS8Rxc)
 
 ## fiction
   * [worm](https://parahumans.wordpress.com/)
@@ -15,7 +18,7 @@
 ## sts / radical science
   * [decolonizing science](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.x0dvzakgw)
   * [disobedient electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
-  * [‘Master/Slave’ Terminology Was Removed from Python Programming Language](https://motherboard.vice.com/en_us/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language?utm_source=mbfb&
+  * [‘Master/Slave’ Terminology Was Removed from Python Programming Language](https://motherboard.vice.com/en_us/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language?utm_source=mbfb&)
   
 ## philosophy
   * [the case for panspsychism](https://philosophynow.org/issues/121/The_Case_For_Panpsychism)
