@@ -9,6 +9,7 @@
 
 ## fiction
   * [worm](https://parahumans.wordpress.com/)
+  * [manna](http://marshallbrain.com/manna1.htm)
   
 ## history
   * [historyisaweapon](http://historyisaweapon.com/)
@@ -36,25 +37,22 @@
 ## health and wellness
 * [the epidemic of gay loneliness](http://highline.huffingtonpost.com/articles/en/gay-loneliness/)
 
-
-
-
-
+## class, race & gender
+* [10 Ways To Pay Reparations If You’re a Broke Ass White Person](https://medium.com/@thedididelgado/10-ways-to-pay-reparations-if-youre-a-broke-ass-white-person-c75d48ebc8aa?fbclid=IwAR2lr7o_6fWga0bPa5Ou5RiML3l6BNBCiBtPBhbxRN1am5Y9XDTV0Sk2fZU)
+* [mapping police violence](https://mappingpoliceviolence.org/)
+* [history of american policing](http://originalpeople.org/slave-patrols-police/)
+* [the bad news on good girls](https://mobile.nytimes.com/2017/11/24/opinion/sunday/girls-parents-boys-gender.html)
+* [millenials are screwed](http://highline.huffingtonpost.com/articles/en/poor-millennials/)
+* [the oklahoma city bombing: the jihad that wasn't](https://fair.org/extra/the-oklahoma-city-bombing/)
+* [dirty secret: why is there still a housework gender gap?](https://www.theguardian.com/inequality/2018/feb/17/dirty-secret-why-housework-gender-gap)
 
 ## misc / unsorted
 
 
   * [report](https://populardemocracy.org/news-and-publications/report-examining-12-city-county-budgets-reveals-heavy-spending-policing) by center for popular democracy examining policing in 12 cities (referenced by a. vitale)
 
-  * [the bad news on good girls](https://mobile.nytimes.com/2017/11/24/opinion/sunday/girls-parents-boys-gender.html)
-  * [mapping police violence](https://mappingpoliceviolence.org/)
-
-  * [millenials are screwed](http://highline.huffingtonpost.com/articles/en/poor-millennials/)
   * [free speech as battleground](https://www.jacobinmag.com/2017/04/free-speech-charles-murray-campus-protest)
   * [emotional potatoes](https://medium.com/@katecom/the-potato-metaphor-for-emotional-labor-4d2d369d33d7)
-  * [the oklahoma city bombing: the jihad that wasn't](https://fair.org/extra/the-oklahoma-city-bombing/)
   * comparison of [philly eagles riots](https://www.youtube.com/watch?v=U_3DyPEYO54&feature=youtu.be) and [j20 riots](https://www.youtube.com/watch?v=OHoNGQeYFMI&feature=youtu.be)
-  * [history of american policing](http://originalpeople.org/slave-patrols-police/)
-  * [dirty secret: why is there still a housework gender gap?](https://www.theguardian.com/inequality/2018/feb/17/dirty-secret-why-housework-gender-gap)
   * [army of altruists](https://theanarchistlibrary.org/library/david-graeber-army-of-altruists)
-  * [manna](http://marshallbrain.com/manna1.htm)
+
