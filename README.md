@@ -50,9 +50,9 @@
 
 
   * [report](https://populardemocracy.org/news-and-publications/report-examining-12-city-county-budgets-reveals-heavy-spending-policing) by center for popular democracy examining policing in 12 cities (referenced by a. vitale)
-
   * [free speech as battleground](https://www.jacobinmag.com/2017/04/free-speech-charles-murray-campus-protest)
   * [emotional potatoes](https://medium.com/@katecom/the-potato-metaphor-for-emotional-labor-4d2d369d33d7)
   * comparison of [philly eagles riots](https://www.youtube.com/watch?v=U_3DyPEYO54&feature=youtu.be) and [j20 riots](https://www.youtube.com/watch?v=OHoNGQeYFMI&feature=youtu.be)
   * [army of altruists](https://theanarchistlibrary.org/library/david-graeber-army-of-altruists)
+  * [james connolly forum videos](https://www.youtube.com/watch?v=pdQDYc-Kf0g&t=5s)
 
