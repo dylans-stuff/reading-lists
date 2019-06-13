@@ -46,6 +46,7 @@
 * [the oklahoma city bombing: the jihad that wasn't](https://fair.org/extra/the-oklahoma-city-bombing/)
 * [dirty secret: why is there still a housework gender gap?](https://www.theguardian.com/inequality/2018/feb/17/dirty-secret-why-housework-gender-gap)
 * [beyond pro choice vs pro life: women of color and reproductive justice](https://www.law.berkeley.edu/php-programs/centers/crrj/zotero/loadfile.php?entity_key=RD3G3I35)
+* [you should've asked (gender & housework)](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/)
 
 ## misc / unsorted
 
