@@ -50,7 +50,7 @@
 
 ## misc / unsorted
 
-
+  * [why do conservatives hate oberlin so much?](https://www.rawstory.com/2019/06/why-do-conservatives-hate-oberlin-college-so-much/)
   * [report](https://populardemocracy.org/news-and-publications/report-examining-12-city-county-budgets-reveals-heavy-spending-policing) by center for popular democracy examining policing in 12 cities (referenced by a. vitale)
   * [free speech as battleground](https://www.jacobinmag.com/2017/04/free-speech-charles-murray-campus-protest)
   * [emotional potatoes](https://medium.com/@katecom/the-potato-metaphor-for-emotional-labor-4d2d369d33d7)
