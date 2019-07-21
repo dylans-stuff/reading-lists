@@ -49,7 +49,7 @@
 * [you should've asked (gender & housework)](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/)
 
 ## misc / unsorted
-
+  * [Organizing advice I would have given myself ten years ago](http://organizing.work/2019/07/organizing-advice-i-would-have-given-myself-ten-years-ago/?fbclid=IwAR0eYSDf82bzGHF792pEk89DyG9s2gE20IneV0A9UPvlbEk-4FhnwRSRqhA)
   * [why do conservatives hate oberlin so much?](https://www.rawstory.com/2019/06/why-do-conservatives-hate-oberlin-college-so-much/)
   * [report](https://populardemocracy.org/news-and-publications/report-examining-12-city-county-budgets-reveals-heavy-spending-policing) by center for popular democracy examining policing in 12 cities (referenced by a. vitale)
   * [free speech as battleground](https://www.jacobinmag.com/2017/04/free-speech-charles-murray-campus-protest)
