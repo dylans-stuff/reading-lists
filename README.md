@@ -47,6 +47,7 @@
 * [dirty secret: why is there still a housework gender gap?](https://www.theguardian.com/inequality/2018/feb/17/dirty-secret-why-housework-gender-gap)
 * [beyond pro choice vs pro life: women of color and reproductive justice](https://www.law.berkeley.edu/php-programs/centers/crrj/zotero/loadfile.php?entity_key=RD3G3I35)
 * [you should've asked (gender & housework)](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/)
+* [relinquishing the patriarchy](http://adriennemareebrown.net/2019/05/28/relinquishing-the-patriarchy/)
 
 ## misc / unsorted
   * [Organizing advice I would have given myself ten years ago](http://organizing.work/2019/07/organizing-advice-i-would-have-given-myself-ten-years-ago/?fbclid=IwAR0eYSDf82bzGHF792pEk89DyG9s2gE20IneV0A9UPvlbEk-4FhnwRSRqhA)
