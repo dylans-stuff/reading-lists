@@ -8,6 +8,7 @@
   * [Why Do Coops Hate Unions?](http://organizing.work/2019/04/why-do-coops-hate-unions/?fbclid=IwAR3F4mJQyXdin82daIPb4RMjmq2MHvbuqDtoL3-_dRdN3eRxrbH9iCS8Rxc)
   * [Brian Eno On Genius, And “Scenius”](http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/)
   * [Scienius, or Communal Genius](https://kk.org/thetechnium/scenius-or-comm/)
+  * [After the Revolution (revolutionary 1930s Spain)](https://web.archive.org/web/20120829175011/http://membres.multimania.fr/anarchives/site/syndic/aftertherevolution.htm)
 
 ## fiction
   * [worm](https://parahumans.wordpress.com/)
