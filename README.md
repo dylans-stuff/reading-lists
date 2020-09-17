@@ -23,6 +23,7 @@
   * [decolonizing science](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.x0dvzakgw)
   * [disobedient electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
   * [‘Master/Slave’ Terminology Was Removed from Python Programming Language](https://motherboard.vice.com/en_us/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language?utm_source=mbfb&)
+  * [asking different questions: women and science (suggested by deboleena roy)](https://emro.libraries.psu.edu/record/index.php?id=278)
   
 ## philosophy
   * [the case for panspsychism](https://philosophynow.org/issues/121/The_Case_For_Panpsychism)
