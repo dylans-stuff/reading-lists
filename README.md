@@ -25,6 +25,7 @@
   * [‘Master/Slave’ Terminology Was Removed from Python Programming Language](https://motherboard.vice.com/en_us/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language?utm_source=mbfb&)
   * [asking different questions: women and science (suggested by deboleena roy)](https://emro.libraries.psu.edu/record/index.php?id=278)
   * [decentering whiteness in design history resources](https://docs.google.com/document/d/1KiW2ULDFeIm_OuvwhM2lygxwhoNddrEFk5tYI9zbldw/mobilebasic?urp=gmail_link&gxids=7628)
+  * [a game designer's analysis of qanon](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5)
   
 ## philosophy
   * [the case for panspsychism](https://philosophynow.org/issues/121/The_Case_For_Panpsychism)
