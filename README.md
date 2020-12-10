@@ -56,6 +56,7 @@
 * [relinquishing the patriarchy](http://adriennemareebrown.net/2019/05/28/relinquishing-the-patriarchy/)
 * [tips from working-class activists](http://www.classmatters.org/resources/tips/)
 * [spadework](https://nplusonemag.com/issue-34/politics/spadework/)
+* [trans journalists association style guide](https://transjournalists.org/style-guide/)
 
 ## misc / unsorted
   * [Organizing advice I would have given myself ten years ago](http://organizing.work/2019/07/organizing-advice-i-would-have-given-myself-ten-years-ago/?fbclid=IwAR0eYSDf82bzGHF792pEk89DyG9s2gE20IneV0A9UPvlbEk-4FhnwRSRqhA)
