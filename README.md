@@ -26,6 +26,7 @@
   * [asking different questions: women and science (suggested by deboleena roy)](https://emro.libraries.psu.edu/record/index.php?id=278)
   * [decentering whiteness in design history resources](https://docs.google.com/document/d/1KiW2ULDFeIm_OuvwhM2lygxwhoNddrEFk5tYI9zbldw/mobilebasic?urp=gmail_link&gxids=7628)
   * [a game designer's analysis of qanon](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5)
+  * [are the amish right about technology?](https://www.theguardian.com/lifeandstyle/2017/nov/03/are-the-amish-right-about-new-technology-oliver-burkeman)
   
 ## philosophy
   * [the case for panspsychism](https://philosophynow.org/issues/121/The_Case_For_Panpsychism)
