@@ -30,6 +30,7 @@
   
 ## philosophy
   * [the case for panspsychism](https://philosophynow.org/issues/121/The_Case_For_Panpsychism)
+  * [the thoughts of a spiderweb](https://getpocket.com/explore/item/the-thoughts-of-a-spiderweb?utm_source=pocket-newtab)
   
 ## zines
   * [aaaaarg.fail](http://aaaaarg.fail/collection/list)
