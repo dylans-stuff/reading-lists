@@ -4,6 +4,10 @@
 ## agriculture, permaculture
   * [uniteddiversity.coop](http://library.uniteddiversity.coop/)
   
+## audiophile
+  * [dynamic range database](https://dr.loudness-war.info/)
+  * [steve hoffman music forums](https://forums.stevehoffman.tv/)
+  
 ## cooperatives / collective process
   * [Why Do Coops Hate Unions?](http://organizing.work/2019/04/why-do-coops-hate-unions/?fbclid=IwAR3F4mJQyXdin82daIPb4RMjmq2MHvbuqDtoL3-_dRdN3eRxrbH9iCS8Rxc)
   * [Brian Eno On Genius, And “Scenius”](http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/)
